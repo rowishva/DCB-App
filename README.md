@@ -7,8 +7,8 @@
 + modelmapper 3.1
 + lombok
 + MySQL 8
-+swagger2
-+ beeceptor is used to mock two operator backend services as below.
++ swagger2
++ www.beeceptor.com is used to mock two operator backend services as below.
 1) https://operatorservice.free.beeceptor.com/generateToken?service_key=testkey&service_name=testname
 2) https://operatorservice.free.beeceptor.com/carrier/payment
 
